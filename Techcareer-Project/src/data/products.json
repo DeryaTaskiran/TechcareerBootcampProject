@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "ASUS",
+    "description": "Asus X515ea 11.Nesil Core i3 1115G4-4Gb-256Gb Ssd-15.6inc-W11",
+    "price": "13.418 TL",
+    "image": "/img/ASUS.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Asus Tuf Gaming",
+    "description": "Asus Tuf Gaming F15 12.Nesil Core i5 12500H-RTX3050 4Gb-8Gb-512Gb Ssd-15.6-W11",
+    "price": "27.099 TL",
+    "image": "/img/ASUS-TUF-GAMİNG.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Msi Cyborg 15",
+    "description": "Msi Cyborg 15 13.Nesil Core i5 13420H-RTX4060 8GB-16GB-512Gb Ssd-15.6inc-W11",
+    "price": "38.999 TL",
+    "image": "/img/MSI.jpeg" 
+  },
+  {
+    "id": 4,
+    "name": "Casper Nirvana",
+    "description": "Casper Nirvana X600 11.Nesil Core i5 1155G7-8Gb-500Gb Ssd-15.6inc-W11",
+    "price": "3299,99 TL",
+    "image": "/img/casper.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Huawei Matebook",
+    "description": "Huawei Matebook D15 11.Nesil Core i5 1155G7-8Gb-512Gb Ssd-15.6inc-W11",
+    "price": "29.99 TL",
+    "image": "/img/huwai-matebook.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Ipad Air",
+    "description": "Ipad Air 5.Nesil 64GB WIFI 10.9''Liquid Retina Ekran iPadOS Tablet Space Gray",
+    "price": "21.799 TL",
+    "image": "/img/ıpad-air.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Lenovo Tab",
+    "description": "Lenovo Tab M9 1.8Ghz 4Gb 64Gb 9inch Hd- Android Tablet",
+    "price": "4.499 TL",
+    "image": "/img/lenova-tab.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Casper Vıa",
+    "description": "Casper Vıa S40 2Ghz 4Gb 128Gb 10.4'Fhd -Android Tablet",
+    "price": "5.999 TL",
+    "image": "/img/casper-vıa.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Tab",
+    "description": "Samsung Galaxy Tab A9+ 64Gb 4GB-11'' Android Tablet SM-X210NZAATUR Graphite",
+    "price": "4.659 TL",
+    "image": "/img/samsung-tab.jpeg"
+  }
+]
