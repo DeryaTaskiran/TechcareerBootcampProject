@@ -9,3 +9,4 @@
 ![Ekran Görüntüsü (170)](https://github.com/DeryaTaskiran/TechcareerBootcampProject/assets/93540206/24dd0ce0-64de-4413-bbdb-576341f91671)
 
 ![Ekran Görüntüsü (172)](https://github.com/DeryaTaskiran/TechcareerBootcampProject/assets/93540206/b691a70a-3592-4cc7-a1f6-8c678e4ceef7)
+![Ekran Görüntüsü (168)](https://github.com/DeryaTaskiran/TechcareerBootcampProject/assets/93540206/8144eeb0-8cf6-4f0b-b117-9a289ea74d52)
